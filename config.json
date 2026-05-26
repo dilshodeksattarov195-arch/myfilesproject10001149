@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneerify",
+        "uuid": 10115796,
+        "checksum": "88bn3"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
